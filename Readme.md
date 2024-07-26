@@ -19,7 +19,7 @@ Dengan kombinasi keahlian teknis dan kreativitas, saya siap membantu Anda mengha
     
 <li>
   
-  <a href='https://www.shysondiamond.com'><b>Shyson Academy</b></a>
+  <a href='https://www.shysonacademy.com'><b>Shyson Academy</b></a>
   <br/>
   <i>"Profesionalisme dan keahlian <i><b>Rifaldo_Ef</b></i> dalam pembuatan website membuat proses belajar di akademi kami menjadi lebih efisien dan menarik."</i></li>
 </ul>
