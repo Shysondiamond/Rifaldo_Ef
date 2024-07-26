@@ -1,7 +1,7 @@
 <h1>RIfaldo_Ef</h1>
 <h2>About</h2>
 <p>
-Halo, nama saya [Nama Anda]. Saya adalah seorang web developer berpengalaman dengan keahlian dalam merancang dan membangun website yang modern, responsif, dan fungsional. Saya menawarkan jasa pembuatan website yang disesuaikan dengan kebutuhan dan preferensi Anda, baik itu untuk keperluan pribadi, bisnis, atau proyek khusus.</p>
+Halo, nama saya Rifaldo_Ef. Saya adalah seorang web developer berpengalaman dengan keahlian dalam merancang dan membangun website yang modern, responsif, dan fungsional. Saya menawarkan jasa pembuatan website yang disesuaikan dengan kebutuhan dan preferensi Anda, baik itu untuk keperluan pribadi, bisnis, atau proyek khusus.</p>
 <p>
 Dengan kombinasi keahlian teknis dan kreativitas, saya siap membantu Anda menghadirkan kehadiran online yang profesional dan menarik. Mulai dari website sederhana hingga kompleks, saya dapat membantu Anda dengan desain yang menarik, navigasi yang intuitif, dan performa yang optimal. Mari bekerja sama untuk mengubah ide Anda menjadi realitas digital.</p>
 
